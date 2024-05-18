@@ -1,3 +1,5 @@
+**Ứng dụng nhận diện khuôn mặt trong video hoặc qua camera, cho phép thêm và xóa khuôn mặt**
+
 Uncomment lệnh train_base() nằm cuối cùng trong file Tranning.py để huấn luyện và lưu lại mô hình.
 
 Sau đó comment lại lệnh này.
